@@ -1,0 +1,14 @@
+
+type = "book"
+callnumber = "888A,g"
+authors = ""
+title = "tile"
+publisher = ""
+year = "1999"
+
+type = "book"
+callnumber = "923123"
+authors = ""
+title = "title"
+publisher = "oro"
+year = "2012"
