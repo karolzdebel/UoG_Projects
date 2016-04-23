@@ -1,1 +1,8 @@
-Hi
+iCalendar application built for the CIS*2750 Systems developement and integration course.
+
+In order to run the application use the following steps.
+1. Make the executable by using the command "make" in terminal.
+2. Run the application using "./xcal.py [USERNAME] [HOSTNAME]", 
+  the arguments are neccessary since the program has to connect to a database.
+3. Enter the database password once prompted.
+
